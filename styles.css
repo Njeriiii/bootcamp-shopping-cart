@@ -1,8 +1,17 @@
 body {
-  background-color: rgb(12,51,84);
+  background-color: #dcd0ff;
   color: white;
 }
 
 a:visited {
-  color: lightgray;
+  color: #000;
+}
+
+.PageNames{
+  text-emphasis-color: #000;
+}
+
+.labels{
+  font-family: 'serif';
+  vertical-align: top;
 }
